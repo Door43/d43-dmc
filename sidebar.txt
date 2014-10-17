@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmc:home|Door43 (dmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmc|d43-dmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmc/archive/master.zip|d43-dmc.zip]]
+
+**Recent Changes**
+{{changes>ns = dmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmc|Ethnologue data]]
+
